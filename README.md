@@ -1,5 +1,6 @@
 # relative-luminance
 
+[![Crates.io Version](https://img.shields.io/crates/v/relative-luminance)](https://crates.io/crates/relative-luminance)
 [![CI](https://github.com/spenserblack/relative-luminance-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/spenserblack/relative-luminance-rs/actions/workflows/ci.yml)
 
 This is a small crate that provides utilities to handle
