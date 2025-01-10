@@ -1,5 +1,7 @@
 # relative-luminance
 
+[![CI](https://github.com/spenserblack/relative-luminance-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/spenserblack/relative-luminance-rs/actions/workflows/ci.yml)
+
 This is a small crate that provides utilities to handle
 [relative luminance][relative-luminance]. In short, among RGB color channels, green
 represents the majority of light perceived by the typical human eye, then red, then
